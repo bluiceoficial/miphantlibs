@@ -1,4 +1,8 @@
 # MiPhantLibs
+
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/miphantlibs
+
 MiPhantLibs is a library that makes desktop system development easier using MiPhant.
 
 ## Features
